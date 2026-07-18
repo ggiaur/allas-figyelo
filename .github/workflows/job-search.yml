@@ -1,0 +1,41 @@
+name: Álláskereső futtatása
+
+on:
+  schedule:
+    # Hétfő és csütörtök reggel 6:00 UTC (kb. 7-8 óra magyar idő szerint)
+    - cron: "0 6 * * 1,4"
+  workflow_dispatch: {}  # kézi indítás a GitHub felületén ("Run workflow" gomb)
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python telepítése
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Függőségek telepítése
+        run: pip install -r requirements.txt
+
+      - name: Állások lekérdezése és email küldés
+        env:
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python fetch_jobs.py
+
+      - name: Eredmény commitolása (weboldal frissítése)
+        run: |
+          git config user.name "job-search-bot"
+          git config user.email "actions@github.com"
+          git add docs/jobs.json
+          git diff --cached --quiet || git commit -m "Állások frissítve: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

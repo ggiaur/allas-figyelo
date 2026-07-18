@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Állásfigyelő — IT vezetői pozíciók</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #14181d;
+    --bg-panel: #1b2129;
+    --border: #2a323c;
+    --text: #e7ebee;
+    --text-dim: #8b96a3;
+    --accent: #6fa8dc;
+    --accent-warm: #e0a458;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'IBM Plex Sans', sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.5;
+  }
+  header {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    border-bottom: 1px solid var(--border);
+  }
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--accent);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+  }
+  h1 {
+    font-size: 1.9rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+  }
+  .meta {
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    color: var(--text-dim);
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.5rem;
+  }
+  .controls {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+  }
+  .controls select, .controls input {
+    background: var(--bg-panel);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
+  }
+  .job {
+    border: 1px solid var(--border);
+    background: var(--bg-panel);
+    border-radius: 10px;
+    padding: 1.1rem 1.3rem;
+    margin-bottom: 0.8rem;
+    transition: border-color 0.15s ease;
+  }
+  .job:hover { border-color: var(--accent); }
+  .job-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+  }
+  .job-title a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .job-title a:hover { color: var(--accent); }
+  .job-sub {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    display: flex;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+  }
+  .tag-new {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: #14181d;
+    background: var(--accent-warm);
+    padding: 0.1rem 0.5rem;
+    border-radius: 4px;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+  .empty, .loading {
+    color: var(--text-dim);
+    font-family: var(--mono);
+    padding: 2rem 0;
+    text-align: center;
+  }
+  footer {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Heti automata figyelő</div>
+  <h1>IT vezetői / infrastruktúra állások</h1>
+  <div class="meta" id="meta">Betöltés…</div>
+</header>
+
+<main>
+  <div class="controls">
+    <select id="locationFilter">
+      <option value="">Összes helyszín</option>
+    </select>
+    <input id="searchBox" type="text" placeholder="Szűrés kulcsszóra…" />
+  </div>
+  <div id="jobList" class="loading">Állások betöltése…</div>
+</main>
+
+<footer>
+  Forrás: Jooble API · A lista kétszer hetente (hétfő és csütörtök) automatikusan frissül.
+</footer>
+
+<script>
+async function loadJobs() {
+  const res = await fetch('jobs.json?_=' + Date.now());
+  const data = await res.json();
+  const jobs = data.jobs || [];
+
+  document.getElementById('meta').textContent =
+    `Utolsó frissítés: ${new Date(data.last_updated).toLocaleString('hu-HU')} · ${data.total_count} találat`;
+
+  const locSet = new Set(jobs.map(j => j.search_location).filter(Boolean));
+  const locSelect = document.getElementById('locationFilter');
+  [...locSet].sort().forEach(loc => {
+    const opt = document.createElement('option');
+    opt.value = loc;
+    opt.textContent = loc;
+    locSelect.appendChild(opt);
+  });
+
+  function render() {
+    const locFilter = locSelect.value;
+    const q = document.getElementById('searchBox').value.toLowerCase();
+    const filtered = jobs.filter(j => {
+      const matchesLoc = !locFilter || j.search_location === locFilter;
+      const haystack = `${j.title || ''} ${j.company || ''} ${j.snippet || ''}`.toLowerCase();
+      const matchesQ = !q || haystack.includes(q);
+      return matchesLoc && matchesQ;
+    });
+
+    const list = document.getElementById('jobList');
+    if (filtered.length === 0) {
+      list.innerHTML = '<div class="empty">Nincs a szűrésnek megfelelő állás.</div>';
+      return;
+    }
+    list.innerHTML = filtered.map(j => `
+      <div class="job">
+        <p class="job-title"><a href="${j.link}" target="_blank" rel="noopener">${j.title || 'Nincs cím'}</a></p>
+        <div class="job-sub">
+          <span>${j.company || 'Ismeretlen munkáltató'}</span>
+          <span>${j.location || j.search_location || ''}</span>
+          <span>${j.updated ? new Date(j.updated).toLocaleDateString('hu-HU') : ''}</span>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  locSelect.addEventListener('change', render);
+  document.getElementById('searchBox').addEventListener('input', render);
+  render();
+}
+
+loadJobs().catch(err => {
+  document.getElementById('jobList').innerHTML =
+    '<div class="empty">Nem sikerült betölteni az adatokat. (' + err + ')</div>';
+});
+</script>
+
+</body>
+</html>
