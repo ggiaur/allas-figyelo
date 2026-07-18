@@ -19,7 +19,13 @@ tests = [
 
 results = []
 for t in tests:
-    r = requests.post(url, json=t, timeout=30)
-    results.append({"payload": t, "status": r.status_code, "body": r.text[:300]})
+    try:
+        r = requests.post(url, json=t, timeout=30)
+        results.append({"payload": t, "status": r.status_code, "body": r.text[:300]})
+    except Exception as exc:
+        results.append({"payload": t, "error": f"{type(exc).__name__}: {exc}"})
+    # incrementálisan mentjük, hogy egy esetleges összeomlás után is lássuk az eddigi eredményt
+    with open("docs/diag.json", "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
 print(json.dumps(results, ensure_ascii=False, indent=2))
