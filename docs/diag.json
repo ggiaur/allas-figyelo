@@ -54,5 +54,37 @@
     },
     "status": 200,
     "body": "{\"totalCount\":0,\"jobs\":[]}"
+  },
+  {
+    "payload": {
+      "keywords": "informatikai vezető",
+      "location": "Budapest, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":0,\"jobs\":[]}"
+  },
+  {
+    "payload": {
+      "keywords": "informatikai",
+      "location": "Budapest, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":0,\"jobs\":[]}"
+  },
+  {
+    "payload": {
+      "keywords": "IT vezető",
+      "location": "Székesfehérvár, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":35,\"jobs\":[{\"title\":\"Lead Data Scientist\",\"location\":\"Hungary\",\"snippet\":\" Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We sup"
+  },
+  {
+    "payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Székesfehérvár, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":35,\"jobs\":[{\"title\":\"Lead Data Scientist\",\"location\":\"Hungary\",\"snippet\":\" Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We sup"
   }
 ]
