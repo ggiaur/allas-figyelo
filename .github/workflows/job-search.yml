@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "job-search-bot"
           git config user.email "actions@github.com"
-          git add docs/jobs.json
+          git add docs/jobs.json docs/debug.json
           git diff --cached --quiet || git commit -m "Állások frissítve: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
