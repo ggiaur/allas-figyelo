@@ -11,6 +11,10 @@ tests = [
     {"keywords": "developer", "location": "Budapest, Hungary"},
     {"keywords": "IT", "location": "Budapest, Hungary"},
     {"keywords": "informatikai vezető", "location": ""},
+    {"keywords": "informatikai vezető", "location": "Budapest, Hungary"},
+    {"keywords": "informatikai", "location": "Budapest, Hungary"},
+    {"keywords": "IT vezető", "location": "Székesfehérvár, Hungary"},
+    {"keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT", "location": "Székesfehérvár, Hungary"},
 ]
 
 results = []
