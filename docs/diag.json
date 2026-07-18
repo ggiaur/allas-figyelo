@@ -1,0 +1,58 @@
+[
+  {
+    "payload": {
+      "keywords": "IT",
+      "location": "Budapest"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":0,\"jobs\":[]}"
+  },
+  {
+    "payload": {
+      "keywords": "informatikai",
+      "location": "Budapest"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":0,\"jobs\":[]}"
+  },
+  {
+    "payload": {
+      "keywords": "manager",
+      "location": "Budapest"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":0,\"jobs\":[]}"
+  },
+  {
+    "payload": {
+      "keywords": "IT manager",
+      "location": "Budapest, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":4,\"jobs\":[{\"title\":\"Software Engineering Manager\",\"location\":\"Hungary\",\"snippet\":\"&nbsp;...and resource allocation align with strategic objectives \\r\\n Represent engineering in cross-functional leadership forums \\r\\n Regularly <b>manage </b>costs and reduce where possible \\r\\n Push for"
+  },
+  {
+    "payload": {
+      "keywords": "developer",
+      "location": "Budapest, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":35,\"jobs\":[{\"title\":\"Senior Cloud Solution Engineer - Security\",\"location\":\"Hungary\",\"snippet\":\"&nbsp;...Microsoft Sentinel analytics rules, KQL queries, and detection use cases to improve threat visibility and reduce false positives \\r\\n <b>Develop </b>and maintain SOAR automation usi"
+  },
+  {
+    "payload": {
+      "keywords": "IT",
+      "location": "Budapest, Hungary"
+    },
+    "status": 200,
+    "body": "{\"totalCount\":35,\"jobs\":[{\"title\":\"Lead Data Scientist\",\"location\":\"Hungary\",\"snippet\":\" Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We sup"
+  },
+  {
+    "payload": {
+      "keywords": "informatikai vezető",
+      "location": ""
+    },
+    "status": 200,
+    "body": "{\"totalCount\":0,\"jobs\":[]}"
+  }
+]
