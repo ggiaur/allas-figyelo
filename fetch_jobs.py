@@ -50,20 +50,33 @@ GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD")
 RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL", GMAIL_USER)
 
 
+DEBUG_LOG = []
+
+
 def fetch_jobs_for_location(location: str) -> list[dict]:
     """Egy adott helyszínre lekéri a Jooble találatokat."""
     url = f"https://jooble.org/api/{JOOBLE_API_KEY}"
     payload = {"keywords": KEYWORDS, "location": location, "radius": RADIUS_KM}
     try:
         resp = requests.post(url, json=payload, timeout=30)
+        entry = {
+            "location": location,
+            "status_code": resp.status_code,
+            "request_payload": payload,
+            "response_snippet": resp.text[:1500],
+        }
+        DEBUG_LOG.append(entry)
         resp.raise_for_status()
         data = resp.json()
         jobs = data.get("jobs", [])
+        entry["total_count_reported"] = data.get("totalCount")
+        entry["jobs_returned"] = len(jobs)
         for job in jobs:
             job["search_location"] = location
         return jobs
     except requests.RequestException as exc:
         print(f"[HIBA] {location}: {exc}", file=sys.stderr)
+        DEBUG_LOG.append({"location": location, "error": str(exc)})
         return []
 
 
@@ -161,6 +174,11 @@ def main() -> None:
         encoding="utf-8",
     )
     print(f"Mentve: {len(all_jobs)} állás összesen, ebből {len(new_jobs)} új.")
+
+    debug_file = DATA_FILE.parent / "debug.json"
+    debug_file.write_text(
+        json.dumps(DEBUG_LOG, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     send_email_digest(new_jobs)
 
