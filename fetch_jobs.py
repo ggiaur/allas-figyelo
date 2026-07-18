@@ -28,16 +28,18 @@ import requests
 # ---------------------------------------------------------------------------
 # KERESÉSI KRITÉRIUMOK – itt tudod testre szabni
 # ---------------------------------------------------------------------------
-KEYWORDS = "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT"
+# FONTOS: a Jooble API (jelenlegi tesztek alapján) magyar nyelvű kulcsszavakra
+# nem ad találatot, csak angolra. A helyszín formátuma is kötelezően "Város, Hungary".
+KEYWORDS = "IT director, IT manager, infrastructure manager, IT project manager"
 
 LOCATIONS = [
-    "Székesfehérvár",
-    "Budapest",
-    "Győr",
-    "Várpalota",
-    "Tata",
-    "Tatabánya",
-    "Veszprém",
+    "Székesfehérvár, Hungary",
+    "Budapest, Hungary",
+    "Győr, Hungary",
+    "Várpalota, Hungary",
+    "Tata, Hungary",
+    "Tatabánya, Hungary",
+    "Veszprém, Hungary",
 ]
 
 RADIUS_KM = "26"  # Jooble csak ezeket az értékeket fogadja: 0, 4, 8, 16, 26, 40, 80
