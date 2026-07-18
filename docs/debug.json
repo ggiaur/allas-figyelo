@@ -1,0 +1,86 @@
+[
+  {
+    "location": "Székesfehérvár",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Székesfehérvár",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  },
+  {
+    "location": "Budapest",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Budapest",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  },
+  {
+    "location": "Győr",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Győr",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  },
+  {
+    "location": "Várpalota",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Várpalota",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  },
+  {
+    "location": "Tata",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Tata",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  },
+  {
+    "location": "Tatabánya",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Tatabánya",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  },
+  {
+    "location": "Veszprém",
+    "status_code": 200,
+    "request_payload": {
+      "keywords": "informatikai vezető, IT infrastruktúra vezető, projektvezető IT, beszerzési előkészítés IT",
+      "location": "Veszprém",
+      "radius": "26"
+    },
+    "response_snippet": "{\"totalCount\":0,\"jobs\":[]}",
+    "total_count_reported": 0,
+    "jobs_returned": 0
+  }
+]
