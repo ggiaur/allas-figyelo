@@ -1,5 +1,58 @@
 {
-  "last_updated": "2026-07-18T23:20:17.537569+00:00",
-  "total_count": 0,
-  "jobs": []
+  "last_updated": "2026-07-18T23:27:48.199248+00:00",
+  "total_count": 4,
+  "jobs": [
+    {
+      "title": "Head of Growth (B2C)",
+      "location": "Hungary",
+      "snippet": "&nbsp;...business growth. You'll own paid user acquisition end-to-end, <b>managing </b>campaigns across Meta, TikTok, Google, and other channels...&nbsp;&nbsp;...Universal App Campaigns. \r\n Experience implementing attribution <b>infrastructure,</b> event mapping, and measurement frameworks. \r\n Startup or high...&nbsp;",
+      "salary": "",
+      "source": "hireskys.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/827255421462140212",
+      "company": "Pragmatike",
+      "updated": "2026-07-17T13:54:25.7500000",
+      "id": 827255421462140212,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Chinese speaking IT System Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...systems, ERP (e.g., SAP), and other factory <b>IT </b>systems; \r\n Analyze and troubleshoot MES...&nbsp;&nbsp;...validation, version upgrades, and change <b>management </b>activities; \r\n Provide MES-related...&nbsp;&nbsp;...Participate in digitalization and Industry 4.0 <b>projects </b>within the factory. \r\n You Are The...&nbsp;",
+      "salary": "",
+      "source": "ev.careers",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/-3790365204209307350",
+      "company": "CATL Debrecen",
+      "updated": "2026-07-16T20:08:14.6130000",
+      "id": -3790365204209307350,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Senior Cloud Solution Engineer - Security",
+      "location": "Hungary",
+      "snippet": "&nbsp;...understanding of Azure platform fundamentals, including Azure networking concepts, PaaS services, platform security, identity & access <b>management </b>(Microsoft Entra ID / RBAC), and Azure Monitor & Log Analytics \r\n What  We Offer \r\n Our company benefits vary based on your...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/4619172169545089575",
+      "company": "Bluebird",
+      "updated": "2026-07-14T00:00:00.0000000",
+      "id": 4619172169545089575,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Software Engineering Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-921491712209079380",
+      "company": "Bluebird",
+      "updated": "2026-07-09T00:00:00.0000000",
+      "id": -921491712209079380,
+      "search_location": "Székesfehérvár, Hungary"
+    }
+  ]
 }
