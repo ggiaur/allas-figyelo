@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-18T23:27:48.199248+00:00",
+  "last_updated": "2026-07-20T08:44:15.939913+00:00",
   "total_count": 4,
   "jobs": [
+    {
+      "title": "Software Engineering Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-921491712209079380",
+      "company": "Bluebird",
+      "updated": "2026-07-19T00:00:00.0000000",
+      "id": -921491712209079380,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Head of Growth (B2C)",
       "location": "Hungary",
@@ -39,19 +52,6 @@
       "company": "Bluebird",
       "updated": "2026-07-14T00:00:00.0000000",
       "id": 4619172169545089575,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Software Engineering Manager",
-      "location": "Hungary",
-      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/-921491712209079380",
-      "company": "Bluebird",
-      "updated": "2026-07-09T00:00:00.0000000",
-      "id": -921491712209079380,
       "search_location": "Székesfehérvár, Hungary"
     }
   ]
