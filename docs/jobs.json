@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-07-20T08:44:15.939913+00:00",
+  "last_updated": "2026-07-23T08:15:28.821310+00:00",
   "total_count": 4,
   "jobs": [
+    {
+      "title": "Senior Cloud Solution Engineer - Security",
+      "location": "Hungary",
+      "snippet": "&nbsp;...understanding of Azure platform fundamentals, including Azure networking concepts, PaaS services, platform security, identity & access <b>management </b>(Microsoft Entra ID / RBAC), and Azure Monitor & Log Analytics \r\n What  We Offer \r\n Our company benefits vary based on your...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/4619172169545089575",
+      "company": "Bluebird",
+      "updated": "2026-07-22T00:00:00.0000000",
+      "id": 4619172169545089575,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Software Engineering Manager",
       "location": "Hungary",
@@ -39,19 +52,6 @@
       "company": "CATL Debrecen",
       "updated": "2026-07-16T20:08:14.6130000",
       "id": -3790365204209307350,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Senior Cloud Solution Engineer - Security",
-      "location": "Hungary",
-      "snippet": "&nbsp;...understanding of Azure platform fundamentals, including Azure networking concepts, PaaS services, platform security, identity & access <b>management </b>(Microsoft Entra ID / RBAC), and Azure Monitor & Log Analytics \r\n What  We Offer \r\n Our company benefits vary based on your...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/4619172169545089575",
-      "company": "Bluebird",
-      "updated": "2026-07-14T00:00:00.0000000",
-      "id": 4619172169545089575,
       "search_location": "Székesfehérvár, Hungary"
     }
   ]
