@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-07-27T09:35:34.100104+00:00",
-  "total_count": 5,
+  "last_updated": "2026-07-30T08:10:36.149379+00:00",
+  "total_count": 8,
   "jobs": [
+    {
+      "title": "Technical Project Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...The team  The Core <b>Infrastructure </b>Team at Kraken is dedicated to create and <b>manage </b>a robust, secure, and automated infrastructure...&nbsp;&nbsp;...and clients. \r\n As a  Technical <b>Project </b>Manager  , you will support...&nbsp;&nbsp;...stakeholders in Engineering, Product, <b>IT,</b> Compliance and Security,...&nbsp;",
+      "salary": "",
+      "source": "hireskys.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/-8195208778142732183",
+      "company": "Kraken",
+      "updated": "2026-07-28T15:06:26.4800000",
+      "id": -8195208778142732183,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Principal Cloud Security Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
+      "salary": "",
+      "source": "hireskys.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/1038077050612888005",
+      "company": "Lastpass",
+      "updated": "2026-07-27T20:24:19.1700000",
+      "id": 1038077050612888005,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "NetApp Business Development Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...identified issues or gaps, using NetApp unique selling points \r\n <b>Manage </b>and optimize contractual relationships with NetApp \r\n Manage...&nbsp;&nbsp;...relationships as it relates to current, new and upcoming <b>projects </b>\r\n Visit <b>IT </b>Reseller Partners and/or their customers, attend trade shows...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-4529092460476920101",
+      "company": "Bluebird",
+      "updated": "2026-07-27T20:18:13.1870000",
+      "id": -4529092460476920101,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Software Engineering Manager",
       "location": "Hungary",
