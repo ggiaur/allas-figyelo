@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-08-06T08:19:29.348173+00:00",
+  "last_updated": "2026-08-10T07:14:55.237481+00:00",
   "total_count": 11,
   "jobs": [
+    {
+      "title": "Software Engineering Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-921491712209079380",
+      "company": "Bluebird",
+      "updated": "2026-08-08T00:00:00.0000000",
+      "id": -921491712209079380,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "NetApp Business Development Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...identified issues or gaps, using NetApp unique selling points \r\n <b>Manage </b>and optimize contractual relationships with NetApp \r\n Manage...&nbsp;&nbsp;...relationships as it relates to current, new and upcoming <b>projects </b>\r\n Visit <b>IT </b>Reseller Partners and/or their customers, attend trade shows...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-4529092460476920101",
+      "company": "Bluebird",
+      "updated": "2026-08-08T00:00:00.0000000",
+      "id": -4529092460476920101,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Lead Software Engineer (DevOps)",
+      "location": "Hungary",
+      "snippet": "&nbsp;...Identity Solutions – ‘Cloud <b>Infrastructure </b>- Edge’ team is looking for a...&nbsp;&nbsp;...infrastructure for Engineering <b>projects,</b> extends our platform for the...&nbsp;&nbsp;..., and tools to help make <b>it </b>easier for Engineering teams...&nbsp;&nbsp;...Terraform, CloudFormation, Resource <b>Manager </b>and many more to ensure that...&nbsp;",
+      "salary": "",
+      "source": "decentrajobs.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/7117409802856420934",
+      "company": "Mastercard",
+      "updated": "2026-08-07T14:16:33.1970000",
+      "id": 7117409802856420934,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Head of Growth (B2C)",
       "location": "Hungary",
@@ -29,29 +68,16 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Technical Project Manager",
+      "title": "Principal Cloud Security Engineer",
       "location": "Hungary",
-      "snippet": "The team The Core <b>Infrastructure </b>Team at Kraken is dedicated to create and <b>manage </b>a robust, secure, and automated infrastructure...&nbsp;&nbsp;...stakeholders and clients. As a Technical <b>Project </b>Manager , you will support cross...&nbsp;&nbsp;...in Engineering, Product, <b>IT,</b> Compliance and Security,...&nbsp;",
+      "snippet": "&nbsp;...partner with DevOps and CI/CD engineers and our Architects team to ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader with an ability to scale security and make the right trade-off...&nbsp;",
       "salary": "",
       "source": "hireskys.com",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/-6490060149709761138",
-      "company": "Kraken",
-      "updated": "2026-08-05T07:54:33.2370000",
-      "id": -6490060149709761138,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "NetApp Business Development Manager",
-      "location": "Hungary",
-      "snippet": "&nbsp;...identified issues or gaps, using NetApp unique selling points \r\n <b>Manage </b>and optimize contractual relationships with NetApp \r\n Manage...&nbsp;&nbsp;...relationships as it relates to current, new and upcoming <b>projects </b>\r\n Visit <b>IT </b>Reseller Partners and/or their customers, attend trade shows...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/-4529092460476920101",
-      "company": "Bluebird",
-      "updated": "2026-08-03T00:00:00.0000000",
-      "id": -4529092460476920101,
+      "link": "https://jooble.org/jdp/-918078559298384154",
+      "company": "Lastpass",
+      "updated": "2026-08-05T07:54:33.4230000",
+      "id": -918078559298384154,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -78,32 +104,6 @@
       "company": "Kraken",
       "updated": "2026-07-28T15:06:26.4800000",
       "id": -8195208778142732183,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Principal Cloud Security Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
-      "salary": "",
-      "source": "hireskys.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/1038077050612888005",
-      "company": "Lastpass",
-      "updated": "2026-07-27T20:24:19.1700000",
-      "id": 1038077050612888005,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Software Engineering Manager",
-      "location": "Hungary",
-      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/-921491712209079380",
-      "company": "Bluebird",
-      "updated": "2026-07-24T00:00:00.0000000",
-      "id": -921491712209079380,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
