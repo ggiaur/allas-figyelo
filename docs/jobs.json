@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-08-10T07:14:55.237481+00:00",
-  "total_count": 11,
+  "last_updated": "2026-08-13T07:14:47.664851+00:00",
+  "total_count": 13,
   "jobs": [
+    {
+      "title": "Cloud Security Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...Implement secure access solutions, including: \r\n Identity and Access <b>Management </b>(IAM)\r\n Identity Federation / SSO \r\n SIEM and audit logging (...&nbsp;&nbsp;...Contribute to cloud architecture from both application and <b>infrastructure </b>perspectives \r\n Perform security testing and scanning of...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/687224929776232171",
+      "company": "Bluebird",
+      "updated": "2026-08-12T00:00:00.0000000",
+      "id": 687224929776232171,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Azure ML Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...Databricks. \r\n Operationalise ML models, including deployment, monitoring, retraining and version <b>management.</b> \r\n Build and maintain MLOps processes using CI/CD, <b>infrastructure </b>as code and automated testing. \r\n Define suitable Azure resources, Databricks compute and...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "",
+      "link": "https://jooble.org/jdp/-3483742981914604385",
+      "company": "Bluebird",
+      "updated": "2026-08-11T00:00:00.0000000",
+      "id": -3483742981914604385,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Software Engineering Manager",
       "location": "Hungary",
@@ -33,12 +59,12 @@
       "location": "Hungary",
       "snippet": "&nbsp;...Identity Solutions – ‘Cloud <b>Infrastructure </b>- Edge’ team is looking for a...&nbsp;&nbsp;...infrastructure for Engineering <b>projects,</b> extends our platform for the...&nbsp;&nbsp;..., and tools to help make <b>it </b>easier for Engineering teams...&nbsp;&nbsp;...Terraform, CloudFormation, Resource <b>Manager </b>and many more to ensure that...&nbsp;",
       "salary": "",
-      "source": "decentrajobs.com",
+      "source": "fitly.work",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/7117409802856420934",
+      "link": "https://jooble.org/jdp/-4851438912105303102",
       "company": "Mastercard",
-      "updated": "2026-08-07T14:16:33.1970000",
-      "id": 7117409802856420934,
+      "updated": "2026-08-07T00:00:00.0000000",
+      "id": -4851438912105303102,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -68,19 +94,6 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Principal Cloud Security Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...partner with DevOps and CI/CD engineers and our Architects team to ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader with an ability to scale security and make the right trade-off...&nbsp;",
-      "salary": "",
-      "source": "hireskys.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/-918078559298384154",
-      "company": "Lastpass",
-      "updated": "2026-08-05T07:54:33.4230000",
-      "id": -918078559298384154,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
       "title": "Growth Marketing Manager (Content)",
       "location": "Hungary",
       "snippet": "Why join us:\nWe're looking for a Growth Marketing <b>Manager </b>to take full ownership of UXfolio's content and organic growth. UXfolio is a portfolio builder with a clear mission: help junior UX designers build portfolios that turn their career dreams into reality.\nYou’ll be...&nbsp;",
@@ -89,7 +102,7 @@
       "type": "Full-time",
       "link": "https://jooble.org/jdp/328640066108621689",
       "company": "UX studio",
-      "updated": "2026-07-31T00:00:00.0000000",
+      "updated": "2026-08-01T00:00:00.0000000",
       "id": 328640066108621689,
       "search_location": "Székesfehérvár, Hungary"
     },
@@ -104,6 +117,19 @@
       "company": "Kraken",
       "updated": "2026-07-28T15:06:26.4800000",
       "id": -8195208778142732183,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Principal Cloud Security Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/7579074353233167695",
+      "company": "Lastpass",
+      "updated": "2026-07-27T00:00:00.0000000",
+      "id": 7579074353233167695,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
