@@ -1,18 +1,31 @@
 {
-  "last_updated": "2026-08-13T07:14:47.664851+00:00",
-  "total_count": 13,
+  "last_updated": "2026-08-17T06:36:51.410550+00:00",
+  "total_count": 15,
   "jobs": [
     {
-      "title": "Cloud Security Engineer",
+      "title": "Remote Business Development Manager - Uncapped Commissions",
       "location": "Hungary",
-      "snippet": "&nbsp;...Implement secure access solutions, including: \r\n Identity and Access <b>Management </b>(IAM)\r\n Identity Federation / SSO \r\n SIEM and audit logging (...&nbsp;&nbsp;...Contribute to cloud architecture from both application and <b>infrastructure </b>perspectives \r\n Perform security testing and scanning of...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
+      "snippet": "Magic, Inc is seeking a Business Development <b>Manager </b>for a remote position in Connecticut. You will manage the end-to-end sales cycle, owning 50+ warm inbound leads. The successful candidate will have at least 2 years of B2B sales experience, preferably in SaaS and a consultative...&nbsp;",
+      "salary": "$2,000 - $4,500 per month",
+      "source": "fitly.work",
       "type": "",
-      "link": "https://jooble.org/jdp/687224929776232171",
-      "company": "Bluebird",
-      "updated": "2026-08-12T00:00:00.0000000",
-      "id": 687224929776232171,
+      "link": "https://jooble.org/jdp/6731072726825287377",
+      "company": "Magic, Inc",
+      "updated": "2026-08-15T00:00:00.0000000",
+      "id": 6731072726825287377,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "AI Infrastructure Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...scaling, well-funded distributed cloud <b>infrastructure </b>startup building next-generation AI-native...&nbsp;&nbsp;..., cost metrics, and system health \r\n <b>Manage </b>model registries and CI/CD pipelines...&nbsp;&nbsp;...startups or greenfield infrastructure <b>projects </b>\r\n Proven experience building production...&nbsp;",
+      "salary": "",
+      "source": "hireskys.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/1867686837793724350",
+      "company": "Pragmatike",
+      "updated": "2026-08-13T14:03:41.6130000",
+      "id": 1867686837793724350,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -29,29 +42,16 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Software Engineering Manager",
+      "title": "Cloud Security Engineer",
       "location": "Hungary",
-      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
+      "snippet": "&nbsp;...Implement secure access solutions, including: \r\n Identity and Access <b>Management </b>(IAM)\r\n Identity Federation / SSO \r\n SIEM and audit logging (...&nbsp;&nbsp;...Contribute to cloud architecture from both application and <b>infrastructure </b>perspectives \r\n Perform security testing and scanning of...&nbsp;",
       "salary": "",
-      "source": "bluebirdinternational.com",
+      "source": "fitly.work",
       "type": "",
-      "link": "https://jooble.org/jdp/-921491712209079380",
+      "link": "https://jooble.org/jdp/-2383789851348179445",
       "company": "Bluebird",
-      "updated": "2026-08-08T00:00:00.0000000",
-      "id": -921491712209079380,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "NetApp Business Development Manager",
-      "location": "Hungary",
-      "snippet": "&nbsp;...identified issues or gaps, using NetApp unique selling points \r\n <b>Manage </b>and optimize contractual relationships with NetApp \r\n Manage...&nbsp;&nbsp;...relationships as it relates to current, new and upcoming <b>projects </b>\r\n Visit <b>IT </b>Reseller Partners and/or their customers, attend trade shows...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/-4529092460476920101",
-      "company": "Bluebird",
-      "updated": "2026-08-08T00:00:00.0000000",
-      "id": -4529092460476920101,
+      "updated": "2026-08-10T00:00:00.0000000",
+      "id": -2383789851348179445,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -59,12 +59,12 @@
       "location": "Hungary",
       "snippet": "&nbsp;...Identity Solutions – ‘Cloud <b>Infrastructure </b>- Edge’ team is looking for a...&nbsp;&nbsp;...infrastructure for Engineering <b>projects,</b> extends our platform for the...&nbsp;&nbsp;..., and tools to help make <b>it </b>easier for Engineering teams...&nbsp;&nbsp;...Terraform, CloudFormation, Resource <b>Manager </b>and many more to ensure that...&nbsp;",
       "salary": "",
-      "source": "fitly.work",
+      "source": "decentrajobs.com",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/-4851438912105303102",
+      "link": "https://jooble.org/jdp/7117409802856420934",
       "company": "Mastercard",
-      "updated": "2026-08-07T00:00:00.0000000",
-      "id": -4851438912105303102,
+      "updated": "2026-08-07T14:16:33.1970000",
+      "id": 7117409802856420934,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -94,16 +94,29 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
+      "title": "Principal Cloud Security Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...partner with DevOps and CI/CD engineers and our Architects team to ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader with an ability to scale security and make the right trade-off...&nbsp;",
+      "salary": "",
+      "source": "hireskys.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/-918078559298384154",
+      "company": "Lastpass",
+      "updated": "2026-08-05T07:54:33.4230000",
+      "id": -918078559298384154,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
       "title": "Growth Marketing Manager (Content)",
       "location": "Hungary",
       "snippet": "Why join us:\nWe're looking for a Growth Marketing <b>Manager </b>to take full ownership of UXfolio's content and organic growth. UXfolio is a portfolio builder with a clear mission: help junior UX designers build portfolios that turn their career dreams into reality.\nYou’ll be...&nbsp;",
       "salary": "",
-      "source": "creativetechgigs.com",
+      "source": "fitly.work",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/328640066108621689",
+      "link": "https://jooble.org/jdp/1742871037928563592",
       "company": "UX studio",
-      "updated": "2026-08-01T00:00:00.0000000",
-      "id": 328640066108621689,
+      "updated": "2026-08-05T00:00:00.0000000",
+      "id": 1742871037928563592,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -120,16 +133,16 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Principal Cloud Security Engineer",
+      "title": "NetApp Business Development Manager",
       "location": "Hungary",
-      "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
+      "snippet": "&nbsp;...identified issues or gaps, using NetApp unique selling points \r\n <b>Manage </b>and optimize contractual relationships with NetApp \r\n Manage...&nbsp;&nbsp;...relationships as it relates to current, new and upcoming <b>projects </b>\r\n Visit <b>IT </b>Reseller Partners and/or their customers, attend trade shows...&nbsp;",
       "salary": "",
       "source": "fitly.work",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/7579074353233167695",
-      "company": "Lastpass",
+      "type": "",
+      "link": "https://jooble.org/jdp/8560686285744079735",
+      "company": "Bluebird",
       "updated": "2026-07-27T00:00:00.0000000",
-      "id": 7579074353233167695,
+      "id": 8560686285744079735,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -163,12 +176,25 @@
       "location": "Hungary",
       "snippet": "&nbsp;...systems, ERP (e.g., SAP), and other factory <b>IT </b>systems; \r\n Analyze and troubleshoot MES...&nbsp;&nbsp;...validation, version upgrades, and change <b>management </b>activities; \r\n Provide MES-related...&nbsp;&nbsp;...Participate in digitalization and Industry 4.0 <b>projects </b>within the factory. \r\n You Are The...&nbsp;",
       "salary": "",
-      "source": "ev.careers",
+      "source": "fitly.work",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/-3790365204209307350",
+      "link": "https://jooble.org/jdp/-808950731996416025",
       "company": "CATL Debrecen",
-      "updated": "2026-07-16T20:08:14.6130000",
-      "id": -3790365204209307350,
+      "updated": "2026-07-16T00:00:00.0000000",
+      "id": -808950731996416025,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Software Engineering Manager",
+      "location": "Hungary",
+      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "",
+      "link": "https://jooble.org/jdp/-31994154218157622",
+      "company": "Bluebird",
+      "updated": "2026-05-26T00:00:00.0000000",
+      "id": -31994154218157622,
       "search_location": "Székesfehérvár, Hungary"
     }
   ]
