@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T06:31:22.143081+00:00",
+  "last_updated": "2026-08-24T06:39:36.872330+00:00",
   "total_count": 14,
   "jobs": [
     {
@@ -81,19 +81,6 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Principal Cloud Security Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...partner with DevOps and CI/CD engineers and our Architects team to ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader with an ability to scale security and make the right trade-off...&nbsp;",
-      "salary": "",
-      "source": "hireskys.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/-918078559298384154",
-      "company": "Lastpass",
-      "updated": "2026-08-05T07:54:33.4230000",
-      "id": -918078559298384154,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
       "title": "Growth Marketing Manager (Content)",
       "location": "Hungary",
       "snippet": "Why join us:\nWe're looking for a Growth Marketing <b>Manager </b>to take full ownership of UXfolio's content and organic growth. UXfolio is a portfolio builder with a clear mission: help junior UX designers build portfolios that turn their career dreams into reality.\nYou’ll be...&nbsp;",
@@ -117,6 +104,19 @@
       "company": "Kraken",
       "updated": "2026-07-28T15:06:26.4800000",
       "id": -8195208778142732183,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Principal Cloud Security Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/7579074353233167695",
+      "company": "Lastpass",
+      "updated": "2026-07-27T00:00:00.0000000",
+      "id": 7579074353233167695,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
