@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-27T17:09:54.371339+00:00",
-  "total_count": 18,
+  "last_updated": "2026-08-31T12:17:03.321416+00:00",
+  "total_count": 14,
   "jobs": [
     {
       "title": "Tech Lead for AI Companion in Online Mahjong Game",
@@ -13,19 +13,6 @@
       "company": "Neurons Lab",
       "updated": "2026-08-26T14:27:04.7370000",
       "id": -3443911202390694784,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Product Marketing Manager/GTM Owner (Cloud Native)",
-      "location": "Hungary",
-      "snippet": "&nbsp;...About the role  Percona is hiring a Product Marketing <b>Manager/</b> Go-To-Market (GTM) Owner to lead and execute go-to-market strategies for our Cloud Native product line:  PostgreSQL  ,  MySQL  , and  MongoDB Kubernetes Operators  . You will own positioning, messaging, launches...&nbsp;",
-      "salary": "",
-      "source": "hireskys.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/817131337872561795",
-      "company": "Percona",
-      "updated": "2026-08-24T13:54:37.9800000",
-      "id": 817131337872561795,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -52,6 +39,19 @@
       "company": "Percona",
       "updated": "2026-08-24T00:00:00.0000000",
       "id": 8668634082486615409,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Product Marketing Manager/GTM Owner (Cloud Native)",
+      "location": "Hungary",
+      "snippet": "&nbsp;...About the role  Percona is hiring a Product Marketing <b>Manager/</b> Go-To-Market (GTM) Owner to lead and execute go-to-market strategies for our Cloud Native product line:  PostgreSQL  ,  MySQL  , and  MongoDB Kubernetes Operators  . You will own positioning, messaging, launches...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/-5090545168691012939",
+      "company": "Percona",
+      "updated": "2026-08-24T00:00:00.0000000",
+      "id": -5090545168691012939,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -91,19 +91,6 @@
       "company": "Bluebird",
       "updated": "2026-08-10T00:00:00.0000000",
       "id": -2383789851348179445,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Lead Software Engineer (DevOps)",
-      "location": "Hungary",
-      "snippet": "&nbsp;...Identity Solutions – ‘Cloud <b>Infrastructure </b>- Edge’ team is looking for a...&nbsp;&nbsp;...infrastructure for Engineering <b>projects,</b> extends our platform for the...&nbsp;&nbsp;..., and tools to help make <b>it </b>easier for Engineering teams...&nbsp;&nbsp;...Terraform, CloudFormation, Resource <b>Manager </b>and many more to ensure that...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/-4851438912105303102",
-      "company": "Mastercard",
-      "updated": "2026-08-07T00:00:00.0000000",
-      "id": -4851438912105303102,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -150,12 +137,12 @@
       "location": "Hungary",
       "snippet": "&nbsp;...The team  The Core <b>Infrastructure </b>Team at Kraken is dedicated to create and <b>manage </b>a robust, secure, and automated infrastructure...&nbsp;&nbsp;...and clients. \r\n As a  Technical <b>Project </b>Manager  , you will support...&nbsp;&nbsp;...stakeholders in Engineering, Product, <b>IT,</b> Compliance and Security,...&nbsp;",
       "salary": "",
-      "source": "fitly.work",
+      "source": "hireskys.com",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/5345489712591009824",
+      "link": "https://jooble.org/jdp/-8195208778142732183",
       "company": "Kraken",
-      "updated": "2026-07-28T00:00:00.0000000",
-      "id": 5345489712591009824,
+      "updated": "2026-07-28T15:06:26.4800000",
+      "id": -8195208778142732183,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -163,12 +150,12 @@
       "location": "Hungary",
       "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
       "salary": "",
-      "source": "fitly.work",
+      "source": "hireskys.com",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/7579074353233167695",
+      "link": "https://jooble.org/jdp/1038077050612888005",
       "company": "Lastpass",
-      "updated": "2026-07-27T00:00:00.0000000",
-      "id": 7579074353233167695,
+      "updated": "2026-07-27T20:24:19.1700000",
+      "id": 1038077050612888005,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -195,45 +182,6 @@
       "company": "Ruby Labs",
       "updated": "2026-07-23T19:54:24.7600000",
       "id": 7372197464078161034,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Head of Growth (B2C)",
-      "location": "Hungary",
-      "snippet": "&nbsp;...business growth. You'll own paid user acquisition end-to-end, <b>managing </b>campaigns across Meta, TikTok, Google, and other channels...&nbsp;&nbsp;...Universal App Campaigns. \r\n Experience implementing attribution <b>infrastructure,</b> event mapping, and measurement frameworks. \r\n Startup or high...&nbsp;",
-      "salary": "",
-      "source": "hireskys.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/827255421462140212",
-      "company": "Pragmatike",
-      "updated": "2026-07-17T13:54:25.7500000",
-      "id": 827255421462140212,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Chinese speaking IT System Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...systems, ERP (e.g., SAP), and other factory <b>IT </b>systems; \r\n Analyze and troubleshoot MES...&nbsp;&nbsp;...validation, version upgrades, and change <b>management </b>activities; \r\n Provide MES-related...&nbsp;&nbsp;...Participate in digitalization and Industry 4.0 <b>projects </b>within the factory. \r\n You Are The...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/-808950731996416025",
-      "company": "CATL Debrecen",
-      "updated": "2026-07-16T00:00:00.0000000",
-      "id": -808950731996416025,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Software Engineering Manager",
-      "location": "Hungary",
-      "snippet": "&nbsp;...and resource allocation align with strategic objectives \r\n Represent engineering in cross-functional leadership forums \r\n Regularly <b>manage </b>costs and reduce where possible \r\n Push for the widespread use of new tools, technologies and methodologies to increase...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "",
-      "link": "https://jooble.org/jdp/-31994154218157622",
-      "company": "Bluebird",
-      "updated": "2026-05-26T00:00:00.0000000",
-      "id": -31994154218157622,
       "search_location": "Székesfehérvár, Hungary"
     }
   ]
