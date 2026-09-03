@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-08-31T12:17:03.321416+00:00",
-  "total_count": 14,
+  "last_updated": "2026-09-03T10:27:29.118031+00:00",
+  "total_count": 15,
   "jobs": [
+    {
+      "title": "Frontend Platform Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...GitHub stars  , making us one of the world’s Top 40 most popular <b>projects </b>\r\n Backed by top investors, from Sequoia’s first German seed...&nbsp;&nbsp;...Contribute to web worker orchestration and other frontend <b>infrastructure </b>that helps n8n scale to more complex use cases. \r\n Technical...&nbsp;",
+      "salary": "",
+      "source": "hireskys.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/-5977092694860938319",
+      "company": "N8n",
+      "updated": "2026-08-31T15:43:39.9730000",
+      "id": -5977092694860938319,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Tech Lead for AI Companion in Online Mahjong Game",
       "location": "Hungary",
