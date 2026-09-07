@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T10:27:29.118031+00:00",
-  "total_count": 15,
+  "last_updated": "2026-09-07T11:10:23.346984+00:00",
+  "total_count": 13,
   "jobs": [
     {
       "title": "Frontend Platform Engineer",
@@ -133,19 +133,6 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Growth Marketing Manager (Content)",
-      "location": "Hungary",
-      "snippet": "Why join us:\nWe're looking for a Growth Marketing <b>Manager </b>to take full ownership of UXfolio's content and organic growth. UXfolio is a portfolio builder with a clear mission: help junior UX designers build portfolios that turn their career dreams into reality.\nYou’ll be...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/1742871037928563592",
-      "company": "UX studio",
-      "updated": "2026-08-05T00:00:00.0000000",
-      "id": 1742871037928563592,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
       "title": "Technical Project Manager",
       "location": "Hungary",
       "snippet": "&nbsp;...The team  The Core <b>Infrastructure </b>Team at Kraken is dedicated to create and <b>manage </b>a robust, secure, and automated infrastructure...&nbsp;&nbsp;...and clients. \r\n As a  Technical <b>Project </b>Manager  , you will support...&nbsp;&nbsp;...stakeholders in Engineering, Product, <b>IT,</b> Compliance and Security,...&nbsp;",
@@ -163,12 +150,12 @@
       "location": "Hungary",
       "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
       "salary": "",
-      "source": "hireskys.com",
+      "source": "fitly.work",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/1038077050612888005",
+      "link": "https://jooble.org/jdp/7579074353233167695",
       "company": "Lastpass",
-      "updated": "2026-07-27T20:24:19.1700000",
-      "id": 1038077050612888005,
+      "updated": "2026-07-27T00:00:00.0000000",
+      "id": 7579074353233167695,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -182,19 +169,6 @@
       "company": "Bluebird",
       "updated": "2026-07-27T00:00:00.0000000",
       "id": 8560686285744079735,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "CRO & Growth Manager",
-      "location": "Hungary",
-      "snippet": "&nbsp;...About the role  One of the RubyLabs’ portfolio <b>projects </b>is looking for a highly experienced and specialized  CRO & Growth <b>Manager </b> to join our team. The primary focus of this role is to drive top-of-funnel growth through optimizing our funnel stages, leading to user registration...&nbsp;",
-      "salary": "",
-      "source": "hireskys.com",
-      "type": "Temporary",
-      "link": "https://jooble.org/jdp/7372197464078161034",
-      "company": "Ruby Labs",
-      "updated": "2026-07-23T19:54:24.7600000",
-      "id": 7372197464078161034,
       "search_location": "Székesfehérvár, Hungary"
     }
   ]
