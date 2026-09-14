@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-10T10:19:20.946070+00:00",
-  "total_count": 14,
+  "last_updated": "2026-09-14T11:21:05.629936+00:00",
+  "total_count": 12,
   "jobs": [
+    {
+      "title": "Senior Cisco Network Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...trusted advisor to prospects and customers working with Account <b>Managers </b>and the local partners. \r\n Understanding of customers’ needs...&nbsp;&nbsp;...technical design discussions and act as a technical authority during <b>project </b>delivery. \r\n~ CCNP Enterprise, CCIE (or equivalent experience)...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "",
+      "link": "https://jooble.org/jdp/4090458636383462083",
+      "company": "Bluebird",
+      "updated": "2026-09-11T00:00:00.0000000",
+      "id": 4090458636383462083,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Business Development Manager - Hungry",
+      "location": "Hungary",
+      "snippet": "&nbsp;...products OKX, OKX Wallet, OKLink and more. \r\n About the Opportunity \r\n We are looking for a dedicated and proactive Business Development <b>Manager </b>for Hungry to join our team. \r\n As a Business Development Manager, you will play a key role in expanding our network of Key Opinion...&nbsp;",
+      "salary": "",
+      "source": "fitly.work",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/6904270103253430980",
+      "company": "OKX",
+      "updated": "2026-09-08T00:00:00.0000000",
+      "id": 6904270103253430980,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Senior Project Manager (bank)",
       "location": "Hungary",
@@ -13,19 +39,6 @@
       "company": "Bluebird",
       "updated": "2026-09-07T00:00:00.0000000",
       "id": 7195374238924931107,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Business Development Manager - Hungry",
-      "location": "Hungary",
-      "snippet": "&nbsp;...products OKX, OKX Wallet, OKLink and more. \r\n About the Opportunity \r\n We are looking for a dedicated and proactive Business Development <b>Manager </b>for Hungry to join our team. \r\n As a Business Development Manager, you will play a key role in expanding our network of Key Opinion...&nbsp;",
-      "salary": "",
-      "source": "decentrajobs.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/4590370680414196099",
-      "company": "OKX",
-      "updated": "2026-09-05T00:00:00.0000000",
-      "id": 4590370680414196099,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -68,19 +81,6 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Growth Marketing Manager, Cloud Native",
-      "location": "Hungary",
-      "snippet": "&nbsp;...About the role  Percona is hiring a  Growth Marketing <b>Manager </b> to own growth for our  Cloud Native (Kubernetes) product line:  PostgreSQL, MySQL, and MongoDB Kubernetes Operators  , along with our broader cloud-native product and partnership ecosystem. You will find and...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/8668634082486615409",
-      "company": "Percona",
-      "updated": "2026-08-24T00:00:00.0000000",
-      "id": 8668634082486615409,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
       "title": "Product Marketing Manager/GTM Owner (Cloud Native)",
       "location": "Hungary",
       "snippet": "&nbsp;...About the role  Percona is hiring a Product Marketing <b>Manager/</b> Go-To-Market (GTM) Owner to lead and execute go-to-market strategies for our Cloud Native product line:  PostgreSQL  ,  MySQL  , and  MongoDB Kubernetes Operators  . You will own positioning, messaging, launches...&nbsp;",
@@ -104,19 +104,6 @@
       "company": "Pragmatike",
       "updated": "2026-08-13T14:03:41.6130000",
       "id": 1867686837793724350,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Azure ML Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...Databricks. \r\n Operationalise ML models, including deployment, monitoring, retraining and version <b>management.</b> \r\n Build and maintain MLOps processes using CI/CD, <b>infrastructure </b>as code and automated testing. \r\n Define suitable Azure resources, Databricks compute and...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "",
-      "link": "https://jooble.org/jdp/-3483742981914604385",
-      "company": "Bluebird",
-      "updated": "2026-08-11T00:00:00.0000000",
-      "id": -3483742981914604385,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -146,29 +133,16 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Technical Project Manager",
+      "title": "Principal Cloud Security Engineer",
       "location": "Hungary",
-      "snippet": "&nbsp;...The team  The Core <b>Infrastructure </b>Team at Kraken is dedicated to create and <b>manage </b>a robust, secure, and automated infrastructure...&nbsp;&nbsp;...and clients. \r\n As a  Technical <b>Project </b>Manager  , you will support...&nbsp;&nbsp;...stakeholders in Engineering, Product, <b>IT,</b> Compliance and Security,...&nbsp;",
+      "snippet": "&nbsp;...partner with DevOps and CI/CD engineers and our Architects team to ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader with an ability to scale security and make the right trade-off...&nbsp;",
       "salary": "",
       "source": "hireskys.com",
       "type": "Full-time",
-      "link": "https://jooble.org/jdp/-8195208778142732183",
-      "company": "Kraken",
-      "updated": "2026-07-28T15:06:26.4800000",
-      "id": -8195208778142732183,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Principal Cloud Security Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...ensure security best practices are embedded across our cloud <b>infrastructure.</b> We are looking for an experienced security engineering leader...&nbsp;&nbsp;...throughout the software development lifecycle \r\n Implement and <b>manage </b>cloud and  Kubernetes security posture management  tooling to...&nbsp;",
-      "salary": "",
-      "source": "fitly.work",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/7579074353233167695",
+      "link": "https://jooble.org/jdp/-918078559298384154",
       "company": "Lastpass",
-      "updated": "2026-07-27T00:00:00.0000000",
-      "id": 7579074353233167695,
+      "updated": "2026-08-05T07:54:33.4230000",
+      "id": -918078559298384154,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
