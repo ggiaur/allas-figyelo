@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-09-28T12:29:28.148952+00:00",
-  "total_count": 4,
+  "last_updated": "2026-10-01T12:08:53.575171+00:00",
+  "total_count": 8,
   "jobs": [
+    {
+      "title": "Data Engineer - Data Platform & Analytics",
+      "location": "Hungary",
+      "snippet": "&nbsp;...technologies such as Spark and Flink \r\n Build and operate data <b>infrastructure </b>using technologies such as AWS, Kafka, and Apache Iceberg...&nbsp;&nbsp;...warehouses and ETL systems \r\n Knowledge of data governance, metadata <b>management,</b> lineage, and data quality frameworks \r\n Experience with...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/7138967413350771590",
+      "company": "Bluebird",
+      "updated": "2026-09-30T13:19:06.8700000",
+      "id": 7138967413350771590,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Senior ML Platform Engineer",
+      "location": "Hungary",
+      "snippet": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions...",
+      "salary": "",
+      "source": "decentrajobs.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/6523722439378878389",
+      "company": "Mastercard",
+      "updated": "2026-09-14T00:00:00.0000000",
+      "id": 6523722439378878389,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Senior Cisco Network Engineer",
       "location": "Hungary",
@@ -16,16 +42,29 @@
       "search_location": "Székesfehérvár, Hungary"
     },
     {
-      "title": "Senior Project Manager (bank)",
+      "title": "Senior Project Manager, Delivery Consulting",
       "location": "Hungary",
-      "snippet": "&nbsp;...Tasks \r\n Lead and <b>manage </b>end-to-end delivery of transformation <b>projects,</b> ensuring they meet scope, time, and quality objectives. \r\n Collaborate closely with clients...&nbsp;&nbsp;...understand and align with their complex business and <b>IT </b>goals. \r\n Motivate and guide your team to success,...&nbsp;",
+      "snippet": "&nbsp;...products and services that help people, businesses and governments realize their greatest potential.  Title and Summary  Senior <b>Project Manager,</b> Delivery Consulting \r\n Advisors & Consulting Services \r\n Services within Mastercard is responsible for acquiring, engaging,...&nbsp;",
       "salary": "",
-      "source": "fitly.work",
-      "type": "",
-      "link": "https://jooble.org/jdp/7195374238924931107",
-      "company": "Bluebird",
-      "updated": "2026-09-07T00:00:00.0000000",
-      "id": 7195374238924931107,
+      "source": "decentrajobs.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/8041076860704961561",
+      "company": "Mastercard",
+      "updated": "2026-09-11T00:00:00.0000000",
+      "id": 8041076860704961561,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Business Development Manager - Hungry",
+      "location": "Hungary",
+      "snippet": "&nbsp;...products OKX, OKX Wallet, OKLink and more. \r\n About the Opportunity \r\n We are looking for a dedicated and proactive Business Development <b>Manager </b>for Hungry to join our team. \r\n As a Business Development Manager, you will play a key role in expanding our network of Key Opinion...&nbsp;",
+      "salary": "",
+      "source": "decentrajobs.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/4590370680414196099",
+      "company": "OKX",
+      "updated": "2026-09-05T00:00:00.0000000",
+      "id": 4590370680414196099,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -39,6 +78,19 @@
       "company": "Bluebird",
       "updated": "2026-08-10T00:00:00.0000000",
       "id": -2383789851348179445,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Lead Software Engineer (DevOps)",
+      "location": "Hungary",
+      "snippet": "&nbsp;...Identity Solutions – ‘Cloud <b>Infrastructure </b>- Edge’ team is looking for a...&nbsp;&nbsp;...infrastructure for Engineering <b>projects,</b> extends our platform for the...&nbsp;&nbsp;..., and tools to help make <b>it </b>easier for Engineering teams...&nbsp;&nbsp;...Terraform, CloudFormation, Resource <b>Manager </b>and many more to ensure that...&nbsp;",
+      "salary": "",
+      "source": "decentrajobs.com",
+      "type": "Full-time",
+      "link": "https://jooble.org/jdp/7117409802856420934",
+      "company": "Mastercard",
+      "updated": "2026-08-07T00:00:00.0000000",
+      "id": 7117409802856420934,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
