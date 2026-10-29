@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T11:58:23.021725+00:00",
+  "last_updated": "2026-10-29T12:01:31.160104+00:00",
   "total_count": 7,
   "jobs": [
     {
@@ -11,8 +11,21 @@
       "type": "",
       "link": "https://jooble.org/jdp/-5079510184639265873",
       "company": "Bluebird",
-      "updated": "2026-10-22T00:00:00.0000000",
+      "updated": "2026-10-28T00:00:00.0000000",
       "id": -5079510184639265873,
+      "search_location": "Székesfehérvár, Hungary"
+    },
+    {
+      "title": "Senior Cisco Network Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...trusted advisor to prospects and customers working with Account <b>Managers </b>and the local partners. \r\n Understanding of customers’ needs...&nbsp;&nbsp;...technical design discussions and act as a technical authority during <b>project </b>delivery. \r\n~ CCNP Enterprise, CCIE (or equivalent experience)...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-4556233674985615750",
+      "company": "Bluebird",
+      "updated": "2026-10-27T00:00:00.0000000",
+      "id": -4556233674985615750,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -39,19 +52,6 @@
       "company": "Bluebird",
       "updated": "2026-10-08T00:00:00.0000000",
       "id": 687224929776232171,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Senior Cisco Network Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...trusted advisor to prospects and customers working with Account <b>Managers </b>and the local partners. \r\n Understanding of customers’ needs...&nbsp;&nbsp;...technical design discussions and act as a technical authority during <b>project </b>delivery. \r\n~ CCNP Enterprise, CCIE (or equivalent experience)...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/-4556233674985615750",
-      "company": "Bluebird",
-      "updated": "2026-10-07T00:00:00.0000000",
-      "id": -4556233674985615750,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
