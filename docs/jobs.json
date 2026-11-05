@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T14:21:18.903291+00:00",
-  "total_count": 7,
+  "last_updated": "2026-11-05T13:46:20.701894+00:00",
+  "total_count": 3,
   "jobs": [
     {
       "title": "Cloud Security Engineer",
@@ -11,21 +11,8 @@
       "type": "",
       "link": "https://jooble.org/jdp/687224929776232171",
       "company": "Bluebird",
-      "updated": "2026-10-31T00:00:00.0000000",
+      "updated": "2026-11-04T00:00:00.0000000",
       "id": 687224929776232171,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Senior Cisco Network Engineer",
-      "location": "Hungary",
-      "snippet": "&nbsp;...trusted advisor to prospects and customers working with Account <b>Managers </b>and the local partners. \r\n Understanding of customers’ needs...&nbsp;&nbsp;...technical design discussions and act as a technical authority during <b>project </b>delivery. \r\n~ CCNP Enterprise, CCIE (or equivalent experience)...&nbsp;",
-      "salary": "",
-      "source": "bluebirdinternational.com",
-      "type": "",
-      "link": "https://jooble.org/jdp/-4556233674985615750",
-      "company": "Bluebird",
-      "updated": "2026-10-30T00:00:00.0000000",
-      "id": -4556233674985615750,
       "search_location": "Székesfehérvár, Hungary"
     },
     {
@@ -37,7 +24,7 @@
       "type": "",
       "link": "https://jooble.org/jdp/-5079510184639265873",
       "company": "Bluebird",
-      "updated": "2026-10-28T00:00:00.0000000",
+      "updated": "2026-11-03T00:00:00.0000000",
       "id": -5079510184639265873,
       "search_location": "Székesfehérvár, Hungary"
     },
@@ -50,47 +37,8 @@
       "type": "",
       "link": "https://jooble.org/jdp/-4529092460476920101",
       "company": "Bluebird",
-      "updated": "2026-10-21T00:00:00.0000000",
+      "updated": "2026-11-02T00:00:00.0000000",
       "id": -4529092460476920101,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Senior ML Platform Engineer",
-      "location": "Hungary",
-      "snippet": " Our Purpose  Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions...",
-      "salary": "",
-      "source": "decentrajobs.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/6523722439378878389",
-      "company": "Mastercard",
-      "updated": "2026-09-14T00:00:00.0000000",
-      "id": 6523722439378878389,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Senior Project Manager, Delivery Consulting",
-      "location": "Hungary",
-      "snippet": "&nbsp;...products and services that help people, businesses and governments realize their greatest potential.  Title and Summary  Senior <b>Project Manager,</b> Delivery Consulting \r\n Advisors & Consulting Services \r\n Services within Mastercard is responsible for acquiring, engaging,...&nbsp;",
-      "salary": "",
-      "source": "decentrajobs.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/8041076860704961561",
-      "company": "Mastercard",
-      "updated": "2026-09-11T00:00:00.0000000",
-      "id": 8041076860704961561,
-      "search_location": "Székesfehérvár, Hungary"
-    },
-    {
-      "title": "Business Development Manager - Hungry",
-      "location": "Hungary",
-      "snippet": "&nbsp;...products OKX, OKX Wallet, OKLink and more. \r\n About the Opportunity \r\n We are looking for a dedicated and proactive Business Development <b>Manager </b>for Hungry to join our team. \r\n As a Business Development Manager, you will play a key role in expanding our network of Key Opinion...&nbsp;",
-      "salary": "",
-      "source": "decentrajobs.com",
-      "type": "Full-time",
-      "link": "https://jooble.org/jdp/4590370680414196099",
-      "company": "OKX",
-      "updated": "2026-09-05T00:00:00.0000000",
-      "id": 4590370680414196099,
       "search_location": "Székesfehérvár, Hungary"
     }
   ]
