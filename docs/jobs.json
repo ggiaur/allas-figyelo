@@ -1,7 +1,20 @@
 {
-  "last_updated": "2026-11-05T13:46:20.701894+00:00",
-  "total_count": 3,
+  "last_updated": "2026-11-09T14:48:06.880679+00:00",
+  "total_count": 4,
   "jobs": [
+    {
+      "title": "Senior Cisco Network Engineer",
+      "location": "Hungary",
+      "snippet": "&nbsp;...trusted advisor to prospects and customers working with Account <b>Managers </b>and the local partners. \r\n Understanding of customers’ needs...&nbsp;&nbsp;...technical design discussions and act as a technical authority during <b>project </b>delivery. \r\n~ CCNP Enterprise, CCIE (or equivalent experience)...&nbsp;",
+      "salary": "",
+      "source": "bluebirdinternational.com",
+      "type": "",
+      "link": "https://jooble.org/jdp/-4556233674985615750",
+      "company": "Bluebird",
+      "updated": "2026-11-04T00:00:00.0000000",
+      "id": -4556233674985615750,
+      "search_location": "Székesfehérvár, Hungary"
+    },
     {
       "title": "Cloud Security Engineer",
       "location": "Hungary",
